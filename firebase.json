@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/primermapa",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
